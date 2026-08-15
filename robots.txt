@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://masuphoto-estonia.fomusglobal.com/sitemap.xml
